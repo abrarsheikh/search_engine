@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#project 
+common-crawl/*
+index/*
+tmp/*
+venv/*
